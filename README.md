@@ -1,8 +1,6 @@
-# Ember-test
+# Ember-cli-bootstap-sass-not-working
 
-This README outlines the details of collaborating on this Ember application.
-
-A short introduction of this app could easily go here.
+This repository is solely to demonstrate to the ember-cli-bootstrap-sass team that this addon doesn't work in a vanilla ember-cli project yet.
 
 ## Prerequisites
 
